@@ -1,3 +1,3 @@
-module github.com/c0re100/go-tdlib
+module github.com/JasonKhew96/go-tdlib
 
 go 1.15
